@@ -1,4 +1,4 @@
-# Volt Deck — Markov Muse
+# Markov Muse
 
 A Markov-chain text generator running real Python in the browser via Pyodide. Dual EN/DE corpora, adjustable creativity, n-gram model.
 
@@ -8,7 +8,7 @@ A Markov-chain text generator running real Python in the browser via Pyodide. Du
 ![stack](https://img.shields.io/badge/stack-html%2Fcss%2Fjs%20%2B%20python%20(pyodide)-orange)
 ![pages](https://img.shields.io/badge/github%20pages-live-brightgreen)
 
-**[Live Demo](https://ruslanfridenli.github.io/volt-deck/)** · **[Deutsch ↓](#-deutsch)**
+**[Live Demo](https://ruslanfridenli.github.io/cyber-lynx/)** · **[Deutsch ↓](#-deutsch)**
 
 </div>
 
@@ -34,8 +34,8 @@ A Markov-chain text generator running real Python in the browser via Pyodide. Du
 ## Local development
 
 ```bash
-git clone https://github.com/ruslanfridenli/volt-deck.git
-cd volt-deck
+git clone https://github.com/ruslanfridenli/cyber-lynx.git
+cd cyber-lynx
 # open index.html in a browser, or serve statically:
 npx serve .
 ```
@@ -62,8 +62,8 @@ Ein Markov-Ketten-Textgenerator mit echtem Python im Browser via Pyodide. Zweisp
 ### Lokale Entwicklung
 
 ```bash
-git clone https://github.com/ruslanfridenli/volt-deck.git
-cd volt-deck
+git clone https://github.com/ruslanfridenli/cyber-lynx.git
+cd cyber-lynx
 npx serve .
 ```
 
